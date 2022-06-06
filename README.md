@@ -1,12 +1,9 @@
 # Notes-on-Python-for-Data-Analysis-2nd-Edition
-
-Notes in IPython notebooks for "Python for Data Analysis" by Wes McKinney,
-published by O'Reilly Media
+Notes in IPython notebooks for "Python for Data Analysis" by Wes McKinney, published by O'Reilly Media
 
 [Buy the book on Amazon][1]
 
 ## Book Description
-
 Get complete instructions for manipulating, processing, cleaning, and crunching datasets in Python. Updated for Python 3.6, the second edition of this hands-on guide is packed with practical case studies that show you how to solve a broad set of data analysis problems effectively. You’ll learn the latest versions of pandas, NumPy, IPython, and Jupyter in the process. Written by Wes McKinney, the creator of the Python pandas project, this book is a practical, modern introduction to data science tools in Python.
 
 ## Book Review
@@ -17,11 +14,6 @@ The author covers every aspect of a Data Analysis operation, from input and clea
 
 I especially enjoyed the  Appendix section where the author covers advanced topics on NumPy, pandas and IPython system.
 
-My Rating:
-<p align="center">
-    <img  alt="Star Rating" src="images/starRating.PNG" class="img-responsive">
-</p>
-
 ## Note
 * I have only included the Jupyter notebooks containing my notes from the book. I have not included the datasets because some of them are quite large and take a whole lot of space in the repo. You can get the datasets at books's official [GitHub Repository](https://github.com/wesm/pydata-book)
 
@@ -29,8 +21,8 @@ My Rating:
 
 ## License
 Attribution: Python for Data Analysis by Wes McKinney (O’Reilly). Copyright 2017 Wes McKinney, 978-1-491-95766-0.
-### Code
 
+### Code
 The code in this repository, including all code samples in the notebooks listed
 above, is released under the [MIT license](LICENSE-CODE). Read more at the
 [Open Source Initiative](https://opensource.org/licenses/MIT).
